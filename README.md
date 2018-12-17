@@ -72,7 +72,7 @@ TransactionDate Account Holder Name
 {
   "responseCode":"200",
   
-  "responseMessage":"Pre-approval payment request was successful.",
+  "responseMessage":"Transaction successfull!",
   
   "TransactionReference":"67565545",
   
