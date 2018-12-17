@@ -87,4 +87,4 @@ TransactionDate Account Holder Name
 
 # Communication
 
-Requests will be sent over the REST protocol using POST Method.
+Requests will be sent over the REST protocol using POST Method. 
