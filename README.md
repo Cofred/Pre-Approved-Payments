@@ -49,11 +49,17 @@ A HTTP response code 200 is sent back for success
 Field	Description
 
 responseCode	Response Code
+
 responseMessage Response Message
+
 TransactionReference Account Number
+
 order_id Order ID as sent in Input
+
 symbol Currency Symbol
+
 amount Debited Amount
+
 TransactionDate Account Holder Name
 
 # Sample Response
