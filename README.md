@@ -71,11 +71,17 @@ TransactionDate Account Holder Name
 
 {
   "responseCode":"200",
+  
   "responseMessage":"Pre-approval payment request was successful.",
+  
   "TransactionReference":"67565545",
+  
   "order_id":"NJHFHGH786", // Passed by merchant
+  
   "symbol":"GHS",
+  
   "amount":"50",
+  
   "TransactionDate":"2018-12-01 09:10:00"
 }
 
