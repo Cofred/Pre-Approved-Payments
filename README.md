@@ -29,8 +29,11 @@ timestamp: 1505628722 // Current Time in Unix Format
 Field	M/O	Length	Format	Description
 
 Account Number M	10 Numeric 	Account Number to which you want to send request
+
 Currency Symbol M 3 Letters Currency Symbol of Debit Amount
+
 Amount M .. Debit Amount
+
 Order ID >6 Alpha Numeric Oder ID to identify transaction details to Merchant
 
 # Sending Parameters
