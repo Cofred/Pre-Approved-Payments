@@ -6,7 +6,7 @@ HTTP Method: POST
 
 # Resource Url
 
-https://cofredpayaccess.com/api/v1/ApprovePayment
+https://cofredpay.com/api/v1/ApprovePayment
 
 # Headers
 
